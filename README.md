@@ -11,6 +11,8 @@
 - [x] Setup Environment 
 - [x] Create Remote Repository at Github
 - [x] Create a new issue at Github
+## Video
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/NtsXXVQXwZU/0.jpg)](http://www.youtube.com/watch?v=NtsXXVQXwZU)
 
 # Episode 02
 - [x] Create new spring boot project
